@@ -1,0 +1,1 @@
+import{r as n}from"./index-I4-SiZne.js";import{u as o}from"./MarkerIcon-QREVi2-R.js";function r(){return o().map}function p(e){const t=r();return n.useEffect(function(){return t.on(e),function(){t.off(e)}},[t,e]),t}export{r as a,p as u};
